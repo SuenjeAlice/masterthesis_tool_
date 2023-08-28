@@ -5,9 +5,6 @@ from llm import LLM
 
 
 #traits:
-# Traits Definition based on Look of Character - given to the AI as keywords
-# Traits: age, gender, species, magic (boolean), location, upbringing, education?
-# get as user input? either as file or typing?
 class Traits:
     traits = {
         "age": 82,
